@@ -11,7 +11,6 @@ import {
   DropdownMenuShortcut,
 } from "@/components/ui/dropdown-menu";
 import { Link } from "react-router-dom";
-// Import new icons from react-icons
 import { FaSignInAlt, FaSignOutAlt, FaGlobe, FaMapMarkedAlt } from "react-icons/fa"; // Replaced icons with Font Awesome
 import { AiOutlineUser } from "react-icons/ai"; // New user icon
 

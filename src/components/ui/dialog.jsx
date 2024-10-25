@@ -3,9 +3,9 @@ import * as DialogPrimitive from "@radix-ui/react-dialog"
 import { X } from "lucide-react"
 
 import { cn } from "@/lib/utils"
-// import { LogInContext } from "@/Context/LogInContext/Login"
+import { LogInContext } from "@/Context/LogInContext/Login"
 
-// import { useContext } from "react"
+import { useContext } from "react"
 
 
 const Dialog = DialogPrimitive.Root
